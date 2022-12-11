@@ -1,0 +1,13 @@
+{
+  "name": "bbWeb",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/puppeteer.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "puppeteer": "^19.0.0"
+  }
+}
